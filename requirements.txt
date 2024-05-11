@@ -1,3 +1,6 @@
 langchain
+langchain-openai
+langchain-anthropic
 langgraph
-pygraphviz
+tavily-python
+IPython.display
